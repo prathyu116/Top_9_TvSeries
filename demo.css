@@ -129,3 +129,11 @@
 	}
 
 }
+footer{
+    text-align: center;
+    padding: 20px;
+}
+footer span{
+    color: rgb(3,96,133);
+    font-size: bold;
+}
